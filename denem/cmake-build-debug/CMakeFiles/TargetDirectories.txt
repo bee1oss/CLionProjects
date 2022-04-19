@@ -1,0 +1,3 @@
+/Users/begechhaciyew/CLionProjects/denem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/begechhaciyew/CLionProjects/denem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/begechhaciyew/CLionProjects/denem/cmake-build-debug/CMakeFiles/denem.dir

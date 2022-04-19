@@ -1,0 +1,3 @@
+/Users/begechhaciyew/CLionProjects/hazirlik/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/Users/begechhaciyew/CLionProjects/hazirlik/cmake-build-default/CMakeFiles/edit_cache.dir
+/Users/begechhaciyew/CLionProjects/hazirlik/cmake-build-default/CMakeFiles/hazirlik.dir

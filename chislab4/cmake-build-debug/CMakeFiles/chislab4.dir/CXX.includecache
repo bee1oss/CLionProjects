@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/begechhaciyew/CLionProjects/chislab4/main.cpp
+iostream
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+iomanip
+-
+

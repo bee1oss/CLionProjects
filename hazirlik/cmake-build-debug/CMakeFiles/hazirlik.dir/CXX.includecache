@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/begechhaciyew/CLionProjects/hazirlik/main.cpp
+cmath
+-
+algorithm
+-
+iostream
+-
+stdio.h
+-
+math.h
+-
+stdlib.h
+-
+iomanip
+-
+
